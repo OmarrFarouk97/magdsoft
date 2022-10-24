@@ -57,7 +57,7 @@ class DetailsScreen extends StatelessWidget {
                             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                             children: [
                               Container(
-                                width: 320,
+                                width: 280,
                                 height: 50,
                                 clipBehavior: Clip.antiAliasWithSaveLayer,
                                 decoration: BoxDecoration(
@@ -91,7 +91,7 @@ class DetailsScreen extends StatelessWidget {
                           const SizedBox(height: 30,),
                           Container(
                               height:176 ,
-                              width: 369,
+                              width: 340,
                               clipBehavior: Clip.antiAliasWithSaveLayer,
                               decoration: BoxDecoration(
                                 color:  Colors.white,
